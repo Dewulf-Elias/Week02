@@ -1,4 +1,4 @@
-namespace CourseManagement.Models;
+namespace CourseManagementLibrary.Models;
 
 public class Course
 {

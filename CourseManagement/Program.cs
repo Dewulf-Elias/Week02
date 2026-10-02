@@ -1,5 +1,5 @@
 using CourseManagement;
-using CourseManagement.Models;
+using CourseManagementLibrary.Models;
 
 List<Course> courses = new List<Course>();
 List<Student> students = new List<Student>();

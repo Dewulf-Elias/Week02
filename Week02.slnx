@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="CourseManagement/CourseManagement.csproj" />
+  <Project Path="CourseManagementLibrary/CourseManagementLibrary.csproj" />
   <Project Path="MusicPlayer/MusicPlayer.csproj" />
   <Project Path="Oefening2/Oefening2.csproj" />
   <Project Path="Week02/Week02.csproj" />
